@@ -31,8 +31,6 @@ In your memory diagram, use the actual addresses printed to the screen. You migh
 > Write your program in `charpointer.c`.
 
 
-**TODO: ADD gdb overview**
-
 ## Exercise 1.4
 >Write your program in `pointertopointer.c`. Fill in the memory diagram below
 just after the printf. Use the
@@ -102,7 +100,6 @@ Paste your output here
 ## Exercise 1.12
 >Write your code in `pointerArith2.c`.
 
-**What to do for diagram???**
 
 ## Exercise 1.13
 >Write your code in `pascal.c`
